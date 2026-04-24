@@ -1,5 +1,6 @@
 # Fake Face Generation Using Vanilla GAN
 This project implements a Vanilla Generative Adversarial Network (GAN) to generate realistic human face images using the CelebA dataset. The model learns the underlying distribution of facial features and produces synthetic images that resemble real human faces.
+<img width="630" height="327" alt="epoch_8_copy" src="https://github.com/user-attachments/assets/60487e07-b39b-4170-a03e-00da85d970c3" />
 
 ## Objectives
 - Understand and implement GAN architecture from scratch
